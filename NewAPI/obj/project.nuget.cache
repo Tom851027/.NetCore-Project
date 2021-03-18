@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JwPA5lxhHFBHKYMHYZsbNTmYUK6YoO46b/O3+SCE+w+VCJwGFAJCwr0wD9duWhLink+8rMFOVytSuVWry92Qg==",
+  "success": true,
+  "projectFilePath": "/Users/tom5205tom5205/Projects/NewAPI/NewAPI/NewAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/tom5205tom5205/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
